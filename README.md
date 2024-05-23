@@ -1,6 +1,6 @@
 # Video Processor
 
-I have used Nestjs framework, Multer fro handling file upload, Bull for queue, fluent-ffmpeg processing videos, class-validator for validations and @ffmpeg-installer/ffmpeg for handling cross platform installation of ffmpeg.
+I have used Nestjs framework, Multer for handling file upload, Bull for queue, fluent-ffmpeg for processing videos, class-validator for validations and @ffmpeg-installer/ffmpeg for handling cross platform installation of ffmpeg.
 
 ## Setup
 
