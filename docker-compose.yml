@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+
+  redis:
+    image: redis:7.2.5
+    volumes:
+      - redisData:/data
+    ports:
+      - 6379:6379
+
+
+
+
+volumes:
+  redisData:
